@@ -3,6 +3,8 @@ name = "burn-1270-mre"
 version = "0.1.0"
 edition = "2021"
 authors = ["yurzhang <yurzhang.oi@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/Nikaidou-Shinku/burn-1270-mre.git"
 
 [profile.release]
 strip = true
